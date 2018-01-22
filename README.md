@@ -42,7 +42,7 @@ Check out the [DreamHouse microsite](http://www.dreamhouseapp.io/) for more info
 
 1. Click the **Data Import** tab and click **Initialize Sample Data**
 
-## Enabling Viual Search
+## Enabling Visual Search
 
 Optional instruction to enable visual search in the **Property Finder** and **Property Explorer** pages:
 
@@ -71,3 +71,4 @@ Optional instruction to enable visual search in the **Property Finder** and **Pr
 1. Repeat the last step for the **Property Explorer** page.
 
 You can now search houses by uploading (or dropping) a picture in the visual search box that is part of the Filters component on the **Property Finder** and **Property Explorer** pages. 
+
