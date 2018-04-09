@@ -31,27 +31,16 @@
     }
   },
   "env": {
-    "SFDX_AUTH_URL": {
-      "required": true
-    },
     "SFDX_BUILDPACK_DEBUG": {
-      "required": true
-    },
-    "SFDX_CREATE_PACKAGE_VERSION": {
       "required": true
     },
     "SFDX_DEV_HUB_AUTH_URL": {
       "required": true
     },
-    "SFDX_INSTALL_PACKAGE_VERSION": {
+    "HEROKU_APP_NAME" : {
       "required": true
     },
-    "SFDX_PACKAGE_NAME": {
-      "required": true
-    },
-    "STAGE": {
-      "required": true
-    }
+    "STAGE": "REVIEW"
   },
   "formation": {},
   "addons": [],
