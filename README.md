@@ -1,4 +1,4 @@
-# DreamHouse Sample Application
+# DreamHouse Sample Application used in Heroku Pipeline
 
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
