@@ -2,14 +2,14 @@
   "name": "dreamhouse-sfdx",
   "version": "0.0.1",
   "description": "Dreamhpuse SFDX Heroku Pipeline using salesforce-dx-buildpack",
-  "repository": "https://github.com/salesforceplatform/dreamhouse-sfdx/",
+  "repository": "https://github.com/jwsources/dreamhouse-sfdx/",
   "author": "JWS",
   "license": "ALv2",
   "bugs": {
-    "url": "https://github.com/salesforceplatform/dreamhouse-sfdx/issues"
+    "url": "https://github.com/jwsources/dreamhouse-sfdx/issues"
   },
   "homepage":
-    "https://github.com/salesforceplatform/dreamhouse-sfdx#readme",
+    "https://github.com/jwsources/dreamhouse-sfdx#readme",
   "dependencies": {},
   "devDependencies": {},
   "environments": {
@@ -49,7 +49,7 @@
       "url": "https://github.com/heroku/salesforce-cli-buildpack"
     },
     {
-      "url": "https://github.com/salesforceplatform/salesforce-buildpack"
+      "url": "https://github.com/jwsources/salesforce-buildpack"
     }
   ]
 }
