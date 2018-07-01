@@ -32,6 +32,13 @@
             </componentInstanceProperties>
             <componentName>SimilarProperties</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>context</name>
+                <value>NEWS</value>
+            </componentInstanceProperties>
+            <componentName>forceChatter:exposedFeed</componentName>
+        </componentInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>
