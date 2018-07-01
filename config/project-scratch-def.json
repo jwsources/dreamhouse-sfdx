@@ -2,7 +2,7 @@
   "country": "US",
   "orgName": "Whizhouse",
   "edition": "Developer",
-  "features": ["Communities"],
+  "features": ["Communities", "DebugApex"],
   "orgPreferences": {
     "enabled": ["S1DesktopEnabled", "ChatterEnabled", "NetworksEnabled"]
   }
